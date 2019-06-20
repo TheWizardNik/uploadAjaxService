@@ -1,0 +1,30 @@
+h1{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif, serif;
+    font-size: 30px;
+    border-collapse: collapse;
+    text-align: center;
+}
+h2{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif, serif;
+    font-size: 25px;
+    border-collapse: collapse;
+    text-align: center;
+}
+form{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif, serif;
+    font-size: 20px;
+    border-collapse: collapse;
+    text-align: center;
+}
+.submitButton {
+    font-size: 18px;
+    margin: 10px;
+}
+.result{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif, serif;
+    font-size: 20px;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 15em;
+    margin-right: 15em;
+}
